@@ -1,9 +1,10 @@
 
 ---
-layout: post
-title: "Permission and privileges"
-date: 2026-11-09
----   
+title: permission and privileges
+date: 2026-11-09 06:38:56 +0800
+categories: [LINUX ADMINISTRATION]
+tags: [LINUX]     
+---
 
 
 My friend is trying to break in to the world of linux system administration, he was frustrated by the lack of materials that transfer the beginner to the intermediate level, he finds either beginner material or advanced ones that does not link the missing dots that he has.

@@ -1,14 +1,10 @@
 ---
-<<<<<<< HEAD
-title: permission and privileges
-    
-=======
 title: "Permissions and Privileges"
 date: 2026-11-09 06:38:56 +0100
 categories: [Linux Administration]
 tags: [linux, permissions, privileges]
->>>>>>> d4cb543 (fixing tags and categories)
 ---
+
 
 My friend is trying to break in to the world of linux system administration, he was frustrated by the lack of materials that transfer the beginner to the intermediate level, he finds either beginner material or advanced ones that does not link the missing dots that he has.
 

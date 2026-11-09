@@ -1,9 +1,7 @@
 
 ---
 title: permission and privileges
-date: 2026-11-09 06:38:56 +0800
-categories: [LINUX ADMINISTRATION]
-tags: [LINUX]     
+    
 ---
 
 
